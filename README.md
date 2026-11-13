@@ -8,4 +8,5 @@ Käsurealt kloonimiseks kasuta käsku:
 ```bash
 git clone https://github.com/unitartu-edu/cta-workshop
 ```
+tere
 
